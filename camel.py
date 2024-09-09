@@ -12,5 +12,5 @@ def main():
     output = camelcase(sentence)
     print(output)
 
-    if __name__ == '__main__':
-        main()
+if __name__ == '__main__':
+    main()
